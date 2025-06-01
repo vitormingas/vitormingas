@@ -1,4 +1,4 @@
-<p align="center">Hi 👋! My name is Vitor (aka Mingas) and I'm a beginner programmer and artist from Brazil.</p>
+<h3 align="center">Hi 👋! My name is Vitor (aka Mingas) and I'm a beginner programmer and artist from Brazil.</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<img align="right" height="352" src="https://img1.picmix.com/output/pic/normal/5/0/5/4/12494505_d8959.gif"  />
+<img align="right" height="349" src="https://img1.picmix.com/output/pic/normal/5/0/5/4/12494505_d8959.gif"  />
 
 ###
 
