@@ -1,4 +1,4 @@
-<h3 align="center"> Hi 👋! My name is Vitor (aka mingas) and I'm a beginner programmer and artist from Brazil.</h3>
+<h3 align="center">Hi 👋! My name is Vitor (aka mingas) and I'm a beginner programmer and artist from Brazil.</h3>
 
 ###
 
