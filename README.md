@@ -48,10 +48,9 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/21enmdpvq5lz3nlemt3txdo6y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21enmdpvq5lz3nlemt3txdo6y&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21enmdpvq5lz3nlemt3txdo6y&count=5&unique=false" alt="Spotify recently played" width="400" /> </a>
   <img width="20" />
-  <img height="340" src="https://img1.picmix.com/output/pic/normal/5/0/5/4/12494505_d8959.gif"  />
+  <img height="550" width="350" src="https://img1.picmix.com/output/pic/normal/5/0/5/4/12494505_d8959.gif" />
 </div>
 
 ###
